@@ -39,5 +39,24 @@ using Python and scientific computing libraries.
 
 ---
 
-## Repository Structure
+
+---
+
+## Key Skills Demonstrated
+
+- Mathematical modelling and reasoning
+- Linear algebra applied to complex systems
+- Numerical computation and verification
+- Algorithmic problem solving
+- Scientific programming in Python
+
+---
+
+## Purpose
+
+This repository serves as an academic and computational portfolio project,
+showcasing proficiency in mathematical methods for complex systems. It is
+intended for academic reference and for demonstrating relevant skills for
+roles in data analysis, machine learning, quantitative research, and
+computational science.
 
